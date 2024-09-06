@@ -1,2 +1,3 @@
 # PostGres_MozoJorge
-https://1.bp.blogspot.com/-cdyYr8QqKj8/X-0eA71A-JI/AAAAAAACJCM/55m-UG29rDcGMhPjVLvcnjw6U23SXqmVwCLcBGAsYHQ/w1200-h630-p-k-no-nu/postgresql.png 
+![image](https://github.com/user-attachments/assets/13ba87f8-8fa2-4d08-95dd-6cc04f819b7e)
+
